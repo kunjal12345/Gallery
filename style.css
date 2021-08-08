@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    color:aquamarine;
+    background-color:coral;
+}
+
+.hope {
+    display: inline;
+    padding: 10px;
+}
+
+.hope:hover {
+    background-color: silver;
+    text-decoration: underline;
+    position:relative;
+}
+
